@@ -1,0 +1,22 @@
+{
+  "name": "saucedemoe2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzequielPaz/SauceDemoE2E.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzequielPaz/SauceDemoE2E/issues"
+  },
+  "homepage": "https://github.com/EzequielPaz/SauceDemoE2E#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
